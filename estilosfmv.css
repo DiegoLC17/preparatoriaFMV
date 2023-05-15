@@ -1,0 +1,214 @@
+body{
+
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+div.god{
+    float: left;
+    width: 100%;
+    height: 800px;
+    border: 1px solid rgb(0, 223, 22) ;
+    
+
+}
+
+div.encabezado{
+    float: left;
+    height: 11%;
+    width: 100%;
+    background-color: #260E69;
+    
+}
+
+div.logo{
+    float: left;
+    height: 100%;
+    width: 10%;
+    border: violet solid 1px;
+    background-color: #858AFF;
+}
+
+div.menu{
+    text-align: center;
+    display: block;
+    float: left;
+    height: 98%;
+    width: 14.85%;
+    border: greenyellow solid 0.1px;
+    color: white;
+}
+
+img.logo{
+    height: 100%;
+    width: 100%;
+}
+
+#portada{
+    float: left;
+    width: 100%;
+    height: 72%;
+    border: violet solid 1px;
+
+}
+
+#seer{
+    position: absolute;
+    float: left;
+    height: 8%;
+    width: 16%;
+    border: violet solid 1px;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+#escuela{
+    position: absolute;
+    float: left;
+    margin-top: 9%;
+    width: 40%;
+    height: 40%;
+    border: violet solid 1px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #260E69;
+    font-size: 50px;
+    margin-left: 10%;
+}
+
+#escudo{
+
+    position: absolute;
+    float: left;
+    margin-top: 9%;
+    margin-left: 65%;
+    height: 40%;
+    width: 15%;
+    border: violet solid 1px;
+}
+
+#pie{
+
+    float: left;
+    height: 20%;
+    width: 100%;
+    background-color: #260E69;
+    border: rgb(204, 41, 41) solid 1px;
+}
+
+#contactos{
+
+    position: absolute;
+    padding-top: 0.5%;
+    float: left;
+    height: 4%;
+    width: 13%;
+    color: white;
+    font-size:xx-large;
+    margin-left: 2%;
+    border: rgb(255, 255, 255) solid 1px;
+}
+
+#actualizacion{
+
+    position: absolute;
+    padding-top: 0.5%;
+    float: left;
+    height: 3%;
+    width: 20%;
+    color: white;
+    font-size:medium;
+    margin-left: 75%;
+    border: rgb(255, 255, 255) solid 1px;
+}
+
+#tel1{
+
+    position: absolute;
+    float: left;
+    height: 4%;
+    width: 2%;
+    margin-top: 4%;
+    margin-left: 2.5%;
+    border: rgb(255, 255, 255) solid 1px;
+}
+
+#tel2{
+
+    position: absolute;
+    float: left;
+    height: 4%;
+    width: 15%;
+    color: white;
+    margin-top: 4%;
+    margin-left: 5%;
+    border: rgb(255, 255, 255) solid 1px;
+}
+
+#dir1{
+
+    position: absolute;
+    float: left;
+    height: 4%;
+    width: 2%;
+    margin-top: 4%;
+    margin-left: 22%;
+    border: rgb(255, 255, 255) solid 1px;
+}
+
+#dir2{
+
+    position: absolute;
+    float: left;
+    height: 4%;
+    width: 15%;
+    margin-top: 4%;
+    margin-left: 25%;
+    color: white;
+    border: rgb(255, 255, 255) solid 1px;
+}
+
+#correo1{
+
+    position: absolute;
+    float: left;
+    height: 4%;
+    width: 2%;
+    margin-top: 4%;
+    margin-left: 42%;
+    border: rgb(255, 255, 255) solid 1px;
+}
+
+#correo2{
+
+    position: absolute;
+    float: left;
+    height: 4%;
+    width: 15%;
+    margin-top: 4%;
+    margin-left: 45%;
+    color: white;
+    border: rgb(255, 255, 255) solid 1px;
+}
+
+#master1{
+
+    position: absolute;
+    float: left;
+    height: 4%;
+    width: 2%;
+    margin-top: 4%;
+    margin-left: 62%;
+    border: rgb(255, 255, 255) solid 1px;
+}
+
+#master2{
+
+    position: absolute;
+    float: left;
+    height: 4%;
+    width: 15%;
+    margin-top: 4%;
+    margin-left: 65%;
+    color: white;
+    border: rgb(255, 255, 255) solid 1px;
+}
